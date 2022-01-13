@@ -28,7 +28,7 @@
                 <div id="menu">
                     <ul>
                         <li>
-                            <a href="#">Dashboard</a>
+                            <a href="index.php">Dashboard</a>
                         </li>
                         <hr>
                         <li>

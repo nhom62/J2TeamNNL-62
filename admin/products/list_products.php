@@ -39,7 +39,7 @@
                             </td>
                             <td>Brown</td>
                             <td>100$</td>
-                            <td><a href="#">Update</a></td>
+                            <td><a href="up_products.php">Update</a></td>
                             <td><a href="#">Delete</a></td>
                         </tr>
                         <tr>
