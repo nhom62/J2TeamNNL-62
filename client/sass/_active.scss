@@ -1,0 +1,52 @@
+.active-information {
+    flex: 1;
+}
+.active-content {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5rem;
+	&__container {
+		display: flex;
+	}
+	&__image {
+		flex: 1;
+	}
+	&__info {
+		&-heading {
+			font-size: 2.6rem;
+			font-weight: 700;
+			letter-spacing: 1.2px;
+			margin-bottom: 1.5rem;
+			font-family: Arial, Helvetica, sans-serif;
+		}
+		&-des {
+			font-size: 1.6rem;
+			display: flex;
+			justify-content: space-between;
+			padding-bottom: 1rem;
+			border-bottom: 1px solid #888;
+		}
+		&-price {
+			font-size: 4rem;
+			font-weight: 400;
+			padding: 3rem 0;
+		}
+		&-quantity,
+		&-size,
+		&-color {
+			font-size: 1.6rem;
+			margin-bottom: 3rem;
+			p {
+				padding-bottom: 1.4rem;
+			}
+			button {
+				margin-left: 2rem;
+			}
+		}
+		&-color button:hover,
+		&--active {
+			border: 3px solid #ff008e;
+		}
+	}
+    &__cart {
+    }
+}
