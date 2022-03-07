@@ -36,7 +36,11 @@
                         </li>
                         <hr>
                         <li>
-                            <a href="#">Customer</a>
+                            <a href="list_producer.php">Producer</a>
+                        </li>
+                        <hr>
+                        <li>
+                            <a href="list_customer.php">Customer</a>
                         </li>
                         <hr>
                         <li>
